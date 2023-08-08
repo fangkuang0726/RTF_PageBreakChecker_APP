@@ -1,5 +1,8 @@
 # RTF_PageBreakChecker_APP
-App for check and summary all RTF page break issue. This app is developed with python. Applciation can be found and downlod from release.
+App for check and summary all RTF page break issue. 
+* Developed with python
+* Compatible for 64 byte Wiondows 10 or later
+* Can be found and downlod from release.
 
 # RTF page break issue
 When generating report in SAS, RTF pages may be missing expected footnotes, underlines, or have some unnecessary blank pages inserted.
