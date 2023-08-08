@@ -10,4 +10,4 @@ There are mainly two checking modes available in the application. The first File
 And the second Folder mode is a batch checker for entire folder of RTF files.![GUI](./gui.png)
 
 # Example summary report exported from APP after batch check
-![GUI](./report.png)
+![report](./report.png)
